@@ -24,7 +24,7 @@ USAGE
 you can select each view independently. 
 
 CONTRIBUTORS
-Lin Zhang and Andrew
+Lin Zhang
 
 
 
