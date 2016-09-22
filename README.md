@@ -1,6 +1,6 @@
 # VideoResemble
 
-A software is use to split the multiple-view video and show each view on the GUI
+This software is use to recover messed up videos, resemble videos from same camera. 
 
 SYNOPSIS AND MOTIVATION
 
@@ -10,7 +10,7 @@ OVERVIEW
 
 
 INSTALLATION
-M-Track requires the following languages and libraries:
+It requires the following languages and libraries:
 PyQt4 
 Opencv 2
 Numpy 1.10.4
