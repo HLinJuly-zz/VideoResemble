@@ -17,7 +17,7 @@ Numpy 1.10.4
 Python2.7
 
 
-USAGE
+TEST
 1.open the File ,select the video you want to split
 
 2. click the left button to start 
