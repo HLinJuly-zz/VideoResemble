@@ -6,9 +6,6 @@ SYNOPSIS AND MOTIVATION:
 
 
 
-OVERVIEW:
-
-
 INSTALLATION:
 It's written by Python2.7 and the following are the required libraries:
 
@@ -29,9 +26,10 @@ TEST:
 
 3.click the right button to watch each view.  you can select each view independently. 
 
+
 CONTRIBUTORS:
 
-Lin Zhang
+
 
 
 
