@@ -1,9 +1,10 @@
 __author__ = 'ZHANGLIN'
+#  convert to other format
 
 import os
 import sys
 
-#     convert to other format
+
 def convert(input, output):
     if getattr(sys, 'frozen', None):
         path = sys.MEIPASS
