@@ -10,11 +10,15 @@ OVERVIEW:
 
 
 INSTALLATION:
-It requires the following languages and libraries:
+It's written by Python2.7 and the following are the required libraries:
+
 PyQt4 
+
 Opencv 2
+
 Numpy 1.10.4
-Python2.7
+
+
 
 
 TEST:
