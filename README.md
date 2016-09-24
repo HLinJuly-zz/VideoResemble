@@ -18,9 +18,9 @@ Python2.7
 
 
 ## USAGE
-1.open the File ,select the video you want to split
+1. open the File ,select the video you want to split
 2. click the left button to start 
-3. after the process finished(I'll try to add some reminding informstion when split precess finished), you can click the right button to watch each view. 
+3. after the process finished,  click the right button to watch each view. 
 you can select each view independently. 
 
 ## CONTRIBUTORS
