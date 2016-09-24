@@ -10,9 +10,9 @@ A software is use to split the multiple-view video and show each view on the GUI
 
 
 ## INSTALLATION
-M-Track requires the following languages and libraries:
+the following are required libraries:
 PyQt4 
-Opencv 2
+OpenCV 2
 Numpy 1.10.4
 Python2.7
 
