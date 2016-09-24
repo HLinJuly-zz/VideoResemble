@@ -5,4 +5,5 @@
 *.swp
 *.png
 *.pickle
+*.pyc
 mvp25.py
