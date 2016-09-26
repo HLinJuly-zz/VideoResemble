@@ -25,9 +25,7 @@ you can select each view independently.
 
 ## CONTRIBUTORS
 
-Lin Zhang
-Hang Lin
-Yao Lu
+
 
 
 ## LICENSE
