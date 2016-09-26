@@ -26,6 +26,7 @@ you can select each view independently.
 ## CONTRIBUTORS
 
 xxxx
+xxxx
 
 
 ## LICENSE
