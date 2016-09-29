@@ -14,7 +14,7 @@ the following are required libraries:
 PyQt4 
 OpenCV 2
 Numpy 1.10.4
-Python2.7
+
 
 
 ## USAGE
@@ -25,7 +25,8 @@ you can select each view independently.
 
 ## CONTRIBUTORS
 
-
+xxxx
+xxxx
 
 
 ## LICENSE
